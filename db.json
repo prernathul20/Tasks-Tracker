@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id":1,
+      "text":"Create task-tracker" ,
+      "day": "Apr 10th at 4:00pm" ,
+      "reminder" : true
+  },
+  {
+      "id": 2,
+      "text": "Preparind Documention" ,
+      "day" : "Apr 11th at 9:00am" ,
+      "reminder" : true
+  },
+  {
+      "id":3,
+      "text":"Writing Journal" ,
+      "day": "Apr 30th at 6:00pm" ,
+      "reminder" : false
+  }
+
+  ]
+  
+}
